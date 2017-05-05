@@ -1,0 +1,25 @@
+- La idea explorar el exodo femenino que se estaba produciendo en las zonas rurales.
+
+- Dataset padron: 1996, 2007, 2016 por franjas de edad, género y municipio.
+
+- Explorar primero si había disparidad (¿en dónde?).
+
+- El 95% de los municipios españoles por debajo de los 200 hab empadronados y por encima de 75 están más masculinizados en la edad laboral (20-64).
+
+- En un extremo: Justel en Zamora (88 habitantes) 24 hombres y 5 mujeres en edad (20-64)
+
+- En el otro extremo: Gotarrendura en Avila (162 habitantes), 3 cuartas partes de la pobación entre 20 y 64 son mujeres.
+
+	- Hay una asociación de mujeres fuerte.
+	- Apuestan por nuevos modelos empresariales (en 2007 ganaron un premio en el que se valoraban las políticas demograficas).
+	En 2009 ganaron el premio EnerAgen: premian la eficiencia energetica poniendo enfasis en energias renovables
+
+- Entrevistas a tres sociólogos expertos en el tema.
+
+- problema: el padrón no es una fuente 100% fiable ya que pueda haber gente empadronada que no viva en el lugar en cuestión. La forma de resolver: investigando.
+
+Evolución del proyecto:
+
+	- comparar los resultados de 2016 con lo que sucedía en 1996 y ver que ha pasado (éxodo? mucha mortalidad?).
+	- Acotar la edad (de 20  a 64 a 20-34 ya que segun los estudios de los que partíamos era aquí donde se produce más disparidad).
+	- Hacer reporterismo en alguno de estos pueblos. 
