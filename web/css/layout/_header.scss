@@ -1,0 +1,33 @@
+.title {
+  padding-top: 5%;
+  width: 40%;
+  margin-left: 5%;
+  animation-name: titleFadeIn;
+  animation-duration: 3s;
+}
+
+.subtitle {
+  width: 40%;
+  margin-left: auto;
+  padding-right: 5%;
+  animation-name: slideInUp;
+  animation-duration: 3s;
+  animation-delay: 1.5s;
+  animation-fill-mode: forwards;
+  visibility: hidden;
+}
+@media screen and (max-width: 980px){
+  .title {
+    padding-top: 2%;
+    width: 60%;
+    margin-left: 7%;
+    padding-bottom: 5%;
+  }
+.subtitle{
+  padding-top: 7%;
+    width: 80%;
+    margin-right:9%;
+
+    }
+
+}
