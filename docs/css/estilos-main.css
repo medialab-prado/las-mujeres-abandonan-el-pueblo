@@ -1,7 +1,7 @@
 h1{
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
-	font-size: 2em;
+	font-size: 1.7em;
 }
 
 h1, h2{
@@ -23,6 +23,10 @@ div#container a{
 	float: left;
 }
 
+div#container a img{
+	width: 60%;
+}
+
 div#container a.tres{
 	float: none;
 }
@@ -30,6 +34,7 @@ div#container a.tres{
 div p{
 	text-align: center;
 	font-family: 'Merriweather', serif;
+	font-size: 1em;
 }
 
 article{
@@ -61,11 +66,31 @@ iframe{
 }
 
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 780px) {
+	div#container{
+		width: 90%;
+	}
 
+	div#container a{
+		float: none;
+		width: 100%;
+	}
+	div#container a img{
+	width: 70%;
+	}
 
 
     figure{
     	width: 85%;
     }
+}
+
+@media only screen and (max-width: 480px) {
+	div#container{
+		width: 97%;
+	}
+	div#container a img{
+	width: 80%;
+}
+
 }
