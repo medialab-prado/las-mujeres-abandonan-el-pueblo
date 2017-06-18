@@ -1,0 +1,52 @@
+
+footer {
+  align-items: stretch;
+  background-color: $color-backgroud-stories;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0.625em;
+  height: 100vh;
+  max-width: 100vw;
+
+  a {
+    font-family: $font-style-title;
+    font-size: 0.9em;
+    color: $color-details;
+  }
+
+  p {
+    font-size: 0.813em;
+    line-height: 0.9em;
+  }
+  div {
+    padding: 1.25em;
+  }
+}
+.contact {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.adalab {
+  text-align: right;
+  width: 50%;
+}
+
+.medialab {
+  border-left: 0.063em solid $color-details;
+  width: 50%;
+}
+
+.twitter {
+  width: 100vw;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+a.twitter-link{
+  margin: auto;
+
+}

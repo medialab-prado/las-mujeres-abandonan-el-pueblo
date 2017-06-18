@@ -1,0 +1,51 @@
+h1{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+h1, h2{
+	font-family: sans-serif;
+}
+
+div#container{
+	width:75%; 
+	overflow: hidden;
+	margin: auto;
+}
+
+div#uno{
+
+}
+
+div p{
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+article{
+	width: 47%;
+	height: 232px;
+	float: left;
+	margin-right: 25px;
+	color: black;
+	text-align: center;
+}
+
+a.cuarta{
+	margin:auto;
+}
+
+footer{
+
+	text-align: center;
+}
+
+body{
+	background-color: #f0f3f5;
+}
+
+iframe{
+
+}
+
+

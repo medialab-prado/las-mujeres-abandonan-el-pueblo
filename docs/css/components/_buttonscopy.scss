@@ -1,0 +1,43 @@
+.btn-mobile-size {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 0.313em;
+    cursor: pointer;
+}
+
+.line-btn-menu {
+  width: 1.975em;
+  height: 0.350em;
+  background-color: #19535f;
+  margin:0.175em;
+  border-radius: 0.125em;
+}
+
+.hidden {
+  display: none;
+}
+
+
+@media screen and (min-width: 480px) {
+  .btn-mobile-size {
+    display: none;
+  }
+}
+
+.contain-arrow{
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.arrow-down{
+
+  width: 2.5em;
+  z-index: 1;
+  padding-top: .5em;
+}
